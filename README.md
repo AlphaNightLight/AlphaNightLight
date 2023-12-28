@@ -1,6 +1,14 @@
-### Hi there 👋
+# Alex Pegoraro - AlphaNightLight
+### Occupation
+I'm a student of Computer, Communications and Electronic Engineering in the University of Trento.
+### Spoken Languages
+Italian, English.
+### Programming Languages
+C++, Python, Java.
 
 <!--
+### Hi there 👋
+
 **AlphaNightLight/AlphaNightLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
